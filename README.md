@@ -1,8 +1,9 @@
 # Learn Terraform Multipass VM
-
 Laboratorio base per creare macchine virtuali Ubuntu con **Terraform** e **Multipass**.
 
 L'obiettivo del progetto è usare Terraform per creare e gestire 3 VM locali Multipass su Ubuntu.
+
+![img](image.png)
 
 ## Obiettivo del laboratorio
 
