@@ -316,3 +316,5 @@ Questi file sono esclusi tramite `.gitignore`.
 
 Il file `.terraform.lock.hcl` invece va committato, perché blocca la versione del provider usata dal progetto.
 
+## Next Step
+Nel laboratorio successivo [configuro le VM con Ansible](https://github.com/miscape/learn-ansible-multipass-vm)
