@@ -1,1 +1,1 @@
-# learn-terraform-docker-container
+# learn-terraform-multipass-vm
